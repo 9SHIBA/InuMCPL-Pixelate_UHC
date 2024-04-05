@@ -1,0 +1,11 @@
+name: INULab.UHC
+version: '${project.version}'
+main: inulabs.inulab.INULab.Main
+api-version: '1.20'
+commands:
+  uhc:
+    description: use to control uhc plugin
+  teamuhc:
+    description: use to setup team
+  uhcdev:
+    description: developer command

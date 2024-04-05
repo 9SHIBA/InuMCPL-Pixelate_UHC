@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="inulabs-UHC">
+    <output-path>$USER_HOME$/Desktop/INUSunflower project/MC Server/UHC/plugins</output-path>
+    <root id="archive" name="inulabs-UHC.jar">
+      <element id="module-output" name="INULab.UHC" />
+    </root>
+  </artifact>
+</component>
